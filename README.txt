@@ -1,4 +1,4 @@
-﻿
+﻿Access the dataset : https://drive.google.com/open?id=17wTbVFdjWvKUZya8P8t_rTyHaOVF-VtW
 
 Use python-3 and pytorch library. 
 Anaconda 3.7 Cuda 10
@@ -70,44 +70,3 @@ def colab_path(path, isColab = True) => # prepare the given path according to ru
 def test(csv_test, net) => # take test dataframe and the network 
 # return the average loss
 # test the network
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
